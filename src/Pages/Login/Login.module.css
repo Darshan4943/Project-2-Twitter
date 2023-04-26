@@ -1,0 +1,35 @@
+.container {
+
+    display: flex;
+   
+    gap: 5%;
+    flex-direction: column;
+    margin: 10px;
+    justify-content: center; 
+    align-items: center;
+     padding-bottom: 10%;
+    
+}
+    
+.btn{
+    
+    border-radius: 20px !important;
+    width:20rem;
+    margin: 10px !important;
+    text-transform: none !important;
+    background-color: white !important;
+    color: black !important;
+ }
+
+.input{
+    width:20rem !important;
+    padding: 5px !important;
+    margin: 5px !important;
+    color: rgb(152, 15, 15) !important;
+    
+ }
+    
+.card{
+    background-color: black;
+    margin:10% 30%;
+}
